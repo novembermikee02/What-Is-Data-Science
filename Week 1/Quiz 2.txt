@@ -1,0 +1,39 @@
+What Makes Someone a Data Scientist?
+Latest Submission Grade
+100%
+
+	1.Question 1
+
+	Hal Varian, the chief economist at Google, declared that "the sexy job in the next ten years will be ___________________".
+	1 / 1 point
+
+		ANS: Statisticians.
+
+	2.Question 2
+
+	The author defines a data scientist as someone who finds solutions to problems by analyzing data using appropriate tool and then tells stories to communicate their finding to the relevant stakeholders.
+	1 / 1 point
+
+		ANS: True.
+
+	3.Question 3
+
+	According to the reading, how does the author define data science?
+	1 / 1 point
+
+		ANS: Data science is what data scientists do.
+		True. This is the author's definition of data science.
+
+	4.Question 4
+
+	According to the reading, what is admirable about Dr. Patil’s definition of a data scientist?
+	1 / 1 point
+
+		ANS: His definition is inclusive of individuals from various academic backgrounds and training.
+
+	5.Question 5
+
+	According to the reading, what characteristics are said to be exhibited by the best data scientists?
+	1 / 1 point
+
+		ANS: Curious individuals who ask good questions and are O.K. dealing with unstructured situations.

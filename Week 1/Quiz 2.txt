@@ -22,11 +22,11 @@ Latest Submission Grade
 	1 / 1 point
 
 		ANS: Data science is what data scientists do.
-		True. This is the author's definition of data science.
+		
 
 	4.Question 4
 
-	According to the reading, what is admirable about Dr. Patil’s definition of a data scientist?
+	According to the reading, what is admirable about Dr. Patilâ€™s definition of a data scientist?
 	1 / 1 point
 
 		ANS: His definition is inclusive of individuals from various academic backgrounds and training.
